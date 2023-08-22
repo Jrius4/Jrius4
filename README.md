@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Jrius4
-
 👋 Hello there! Welcome to my GitHub profile.
 
 I'm Julius Jr., a passionate Software Engineer with a love for all things is to impact change. My journey in the world of programming has been an exciting one, filled with curiosity, challenges, and countless lines of hacking.
