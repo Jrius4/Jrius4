@@ -7,9 +7,9 @@ I'm Julius Jr., a passionate Software Engineer with a love for all things is to 
 <!--
 🌱 When I'm not typing away at my keyboard, you'll find me exploring new technologies, contributing to open-source projects, or sharing my insights through blog posts. I believe in the power of collaboration and the spirit of continuous learning.
 -->
-<!--
+
 [![Jrius4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jrius4)](https://github.com/Jrius4/github-readme-stats)
--->
+
 
 🔗 Feel free to explore my repositories, where you'll find a mix of personal projects, experiments, and contributions to the tech community. If something sparks your interest or if you'd like to collaborate, don't hesitate to reach out.
 
