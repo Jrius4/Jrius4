@@ -13,9 +13,9 @@ I'm Julius Jr., a passionate Software Engineer with a love for all things is to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrius4)](https://github.com/Jrius4/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrius4&layout=donut)](https://github.com/Jrius4/github-readme-stats)
--->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jrius4)](https://github.com/Jrius4/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jrius4)](https://github.com/Jrius4/github-readme-stats)
+-->
 
 [![wakatime](https://wakatime.com/badge/user/${{secrets.WAKA_KEY}}.svg)](https://wakatime.com/@Jrius4)
 
